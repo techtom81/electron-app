@@ -1,0 +1,25 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Tom's first desktop app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techtom81/electron-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Tom Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techtom81/electron-app/issues"
+  },
+  "homepage": "https://github.com/techtom81/electron-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
